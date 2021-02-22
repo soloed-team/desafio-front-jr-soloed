@@ -14,8 +14,9 @@ Baseado no layout ([Figma](https://www.figma.com/file/sl23D5HJ2d3rgUTlnkHaJN/Sol
 
 #### Pré-requisitos
 
+- Construir a aplicação responsiva (o layout no Figma tem a versão mobile).
 - Construir a aplicação utilizando SASS.
-- Comprometimento com o design das páginas
+- Comprometimento com o design das páginas.
 
 # Soloed\_ Store
 
